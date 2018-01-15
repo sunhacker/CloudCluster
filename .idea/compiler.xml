@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eurekaone" />
+        <module name="feign" />
+        <module name="restribbon" />
+        <module name="serviceone" />
+        <module name="servicetwo" />
+        <module name="zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CloudCluster" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="eurekaone" target="1.8" />
+      <module name="feign" target="1.8" />
+      <module name="restribbon" target="1.8" />
+      <module name="serviceone" target="1.8" />
+      <module name="servicetwo" target="1.8" />
+      <module name="zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

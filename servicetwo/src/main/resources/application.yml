@@ -1,0 +1,11 @@
+server:
+  port: 7272
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8181/eureka/
+
+spring:
+  application:
+    name: service-cluster

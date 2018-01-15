@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CloudCluster.iml" filepath="$PROJECT_DIR$/CloudCluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaone/eurekaone.iml" filepath="$PROJECT_DIR$/eurekaone/eurekaone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign.iml" filepath="$PROJECT_DIR$/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restribbon/restribbon.iml" filepath="$PROJECT_DIR$/restribbon/restribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceone/serviceone.iml" filepath="$PROJECT_DIR$/serviceone/serviceone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicetwo/servicetwo.iml" filepath="$PROJECT_DIR$/servicetwo/servicetwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
